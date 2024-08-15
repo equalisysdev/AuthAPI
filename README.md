@@ -1,4 +1,5 @@
-﻿# AuthAPI for C#
+﻿# CS-AuthAPI
+**C# SDK for the AuthAPI**
 *This project was made for the ThatAPICompany competition of September 2024.*
 
 -------------------
@@ -14,6 +15,8 @@ And you're good to go!
 
 ## Documentation
 We don't have a documentation for the SDK yet available because the project is still in early developement. When we will have a documentation, it
-will be available [here](https://software.dynwares.com/cs-auth-api/docs).]
+will be available [here](https://software.dynwares.com/cs-auth-api/docs).
 
-From now on, you can check the [official documentation](https://authapi.com/docs) for more information on how to use the AuthAPI.
+
+All the functions will have more or less the same name as the API endpoints (except some organisation stuff) so you can refer to the
+[official documentation](https://authapi.com/docs) for information on how to use CS-AuthAPI.
