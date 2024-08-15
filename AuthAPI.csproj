@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>AuthAPI</Title>
+    <Company>Dynwares</Company>
+    <Authors>Equalisys</Authors>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>GPLv3</Copyright>
+    <Description>A C# SDK for the AuthAPI from ThatAPICompany</Description>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="111.4.1" />
+  </ItemGroup>
+
+</Project>
