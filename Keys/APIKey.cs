@@ -2,13 +2,10 @@
 using System.Net.Http.Headers;
 using System.Text.Json;
 
-namespace AuthAPI
+namespace AuthAPI.Keys
 {
-    public class APIKey
+    public class APIKey : Key
     {
-        public string AccessKey { get; set; }
-        public string Name { get; set; }
-        public string ProjectId { get; set; }
         public string? CustomUserId { get; set; }
         public string? CustomAccountId { get; set; }
         public string? Key { get; set; }
