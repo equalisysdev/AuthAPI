@@ -17,5 +17,6 @@ And you're good to go!
 We don't have a documentation for the SDK yet available because the project is still in early developement. When we will have a documentation, it
 will be available [here](https://software.dynwares.com/cs-auth-api/docs).
 
+
 All the functions will have more or less the same name as the API endpoints (except some organisation stuff) so you can refer to the
 [official documentation](https://authapi.com/docs) for information on how to use CS-AuthAPI.
