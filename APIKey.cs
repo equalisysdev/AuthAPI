@@ -51,7 +51,7 @@ namespace AuthAPI
             }
         }
 
-        public static async Task<object> ValidateKey(string accessKey, string apiKey)
+        public static async Task<object> GetApiKeysAuth(string accessKey, string apiKey)
         {
             // Crafts the request
             var request = new HttpRequestMessage(new HttpMethod("GET"), "https://api.theauthapi.com/api-keys/auth/" + apiKey);
