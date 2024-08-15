@@ -7,7 +7,7 @@ There is no external depedency needed to use this SDK as it was made using only 
 
 ## Installation
 Just add it to your project using NuGet:
-```pwsh
+```
 dotnet add package AuthAPI
 ```
 And you're good to go!
